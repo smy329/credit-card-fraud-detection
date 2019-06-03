@@ -26,10 +26,10 @@ IV. Testing
 ## Dataset: 
 The dataset has been obtained from kaggle. This dataset contains 284807 rows and 30 numeric columns and one class that specifies whether the transaction is fraudulent or not. The values of columns V1-V28 in the dataset may be result of a PCA(Principal Component Analysis) Dimensionality reduction to protect user identities and sensitive information. There are no missing values in the dataset.
 
-##Algorithm: 
+## Algorithm: 
 The algorithm used in this dataset is Random Forest algorithm. For model improvement normalization and SMOTE techniques (to handle imbalanced data) were used.
 
-##Visualisation: 
+## Visualisation: 
 The library used for visualizing the data, confusion matrix etc. is matplotlib, seaborn.
 
 This code is prepared using Jupyter Notebook.
