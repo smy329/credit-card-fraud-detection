@@ -6,7 +6,7 @@ The dataset has been obtained from kaggle. This dataset contains 284807 rows and
 
 ## Outline:
 I. Understanding our data
-  a) Gather Sense of our data
+     a) Gather Sense of our data
 
 II. Preprocessing
   a) Scaling and Distributing
