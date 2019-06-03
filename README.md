@@ -19,12 +19,12 @@ III. Random UnderSampling and Oversampling
 * Dimensionality Reduction and Clustering (t-SNE)
 * Classifiers
 * A Deeper Look into Logistic Regression
-*Oversampling with SMOTE
+* Oversampling with SMOTE
 
 
 IV. Testing 
-  a) Testing with Logistic Regression
-  b) Neural Networks Testing (Undersampling vs Oversampling)
+* Testing with Logistic Regression
+* Neural Networks Testing (Undersampling vs Oversampling)
 
 
 ## Visualisation: 
