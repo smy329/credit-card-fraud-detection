@@ -14,12 +14,12 @@ II. Preprocessing
 
 
 III. Random UnderSampling and Oversampling
-  a) Distributing and Correlating
-  b) Anomaly Detection
-  c) Dimensionality Reduction and Clustering (t-SNE)
-  d) Classifiers
-  e) A Deeper Look into Logistic Regression
-  f) Oversampling with SMOTE
+* Distributing and Correlating
+* Anomaly Detection
+* Dimensionality Reduction and Clustering (t-SNE)
+* Classifiers
+* A Deeper Look into Logistic Regression
+*Oversampling with SMOTE
 
 
 IV. Testing 
